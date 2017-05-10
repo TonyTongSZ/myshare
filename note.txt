@@ -1,0 +1,36 @@
+Tong.yanxi-non-empl@moodys.com
+https://moodys.service-now.com/moodys/login.do
+\\sz1filer02\software
+http://proxy-apsz.nslb.ad.moodys.net/mdyproxy.pac
+d@taRef!
+ctrl+shift+x 转为大写 ctrl+shift+y 转为小写
+bfmcan.dbo.derived_stmt_rvsn_rlship -> datamart.fdp_bfm.derived_stmt_rvsn_rlship
+
+It is currently set to "C:\Program Files\Java\jre1.8.0_111"
+
+
+user=mdc
+jdbcSpecific=MSSQL
+password=d@taRef!
+name=cfmcan
+database=MSSQL
+dbURL=jdbc\:jtds\:sqlserver\://SQL-DRFE2E4\:1433/cfmcan
+
+/var/datarefinery/bfm/home/config/jobs.xml
+
+nohup
+
+szuser  /  user@MAS2
+
+sudo su - root
+sh deploy bfm
+
+cfm production
+PTC-SQLDRFVS101
+bfm / d@taRef!
+
+
+apc-wgmdcdfa201
+drf / datarefinery
+
+yanxit / tc$17Mar
